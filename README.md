@@ -26,7 +26,7 @@ The goals / steps of this project are the following:
 [image7]: ./examples/images/image4.jpg "Traffic Sign 4"
 [image8]: ./examples/images/image5.jpg "Traffic Sign 5"
 [image9]: ./examples/images/image6.jpg "Traffic Sign 6"
-[image10]: ./examples/predicion.png "Prediction Results"
+[image10]: ./examples/prediction.png "Prediction Results"
 [image11]: ./examples/img6_processed.png "image 6 after preprocessing"
 
   
