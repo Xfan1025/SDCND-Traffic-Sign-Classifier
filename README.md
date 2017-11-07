@@ -26,6 +26,7 @@ Table of Contents(Updating)
 This project is to build a convolutional neural network to classify German Traffic Sign images.
 
 # Check this prediction out
+This is a test prediction on 6 images I downloaded from Google. The model made 5 correct predictions with high confidence. The reason why it failed for last image will be discussed in the last section.
 
 ![alt text][image10]
 
