@@ -1,10 +1,35 @@
-# **Traffic Sign Recognition**
+Table of Contents(Updating)
+=================
 
+   * [Traffic Sign Recognition](#traffic-sing-recognition)
+   * [Check this prediction out](check-this-prediction-out)
+   * [Goal](#goal)
+   * [Files & Code Quality](#files-&-code-quality)
+      * [Files](#files)
+      * [Functional Code](#functional-code)
+      * [Code Readability](#code-readability)
+   * [Model Architecture](#model-architecture)
+      * [Architecture: LeNet](#architecture-lenet)
+      * [Objective, Loss function, Learning rate](#objective-loss-function-learning-rate)
+      * [Overfitting Handling](#overfitting-handling)
+   * [Data Preprocessing Strategy](#data-preprocessing-strategy)
+      * [Image Preprocessing](#data-preprocessing)
+      * [Steering Angle Preprocessing](#steering-angle-preprocessing)
+   * [Training Strategy](#training-strategy)
 
+   * [Next](#next)
 
 ---
 
-**Build a Traffic Sign Recognition Project**
+
+# Traffic Sign Recognition
+This project is to build a convolutional neural network to classify German Traffic Sign images.
+
+# Check this prediction out
+
+![alt text][image10]
+
+# Goal
 
 The goals / steps of this project are the following:
 * Load the data set (see below for links to the project data set)
@@ -32,11 +57,9 @@ The goals / steps of this project are the following:
   
 
 ---
-### Writeup / README
+# Code
 
-#### 1. Provide a Writeup / README that includes all the rubric points and how you addressed each one. You can submit your writeup as markdown or pdf. 
-
-You're reading it! and here is a link to my [project code](https://github.com/Xfan1025/SDCND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading this project! and here is a link to my [project code in Jupyter Notebook](https://github.com/Xfan1025/SDCND-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ### Data Set Summary & Exploration
 
