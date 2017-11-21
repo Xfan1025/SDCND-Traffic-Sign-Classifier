@@ -4,20 +4,7 @@ Table of Contents(Updating)
    * [Traffic Sign Recognition](#traffic-sing-recognition)
    * [Check this prediction out](check-this-prediction-out)
    * [Goal](#goal)
-   * [Files & Code Quality](#files-&-code-quality)
-      * [Files](#files)
-      * [Functional Code](#functional-code)
-      * [Code Readability](#code-readability)
-   * [Model Architecture](#model-architecture)
-      * [Architecture: LeNet](#architecture-lenet)
-      * [Objective, Loss function, Learning rate](#objective-loss-function-learning-rate)
-      * [Overfitting Handling](#overfitting-handling)
-   * [Data Preprocessing Strategy](#data-preprocessing-strategy)
-      * [Image Preprocessing](#data-preprocessing)
-      * [Steering Angle Preprocessing](#steering-angle-preprocessing)
-   * [Training Strategy](#training-strategy)
 
-   * [Next](#next)
 
 ---
 
